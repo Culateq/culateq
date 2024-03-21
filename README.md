@@ -4,7 +4,6 @@
   </h1>
 </div>
 
-### Hola soy Desarrollador 👋
 
 
 
